@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, Github!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Edited in Github editor");
         }
     }
 }
